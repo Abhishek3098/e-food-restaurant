@@ -1,0 +1,101 @@
+.cont
+{
+	width:100%;
+	height:auto;
+}
+
+.row
+{
+	width:960px;
+	height:auto;
+	margin:0px auto;
+}
+.pos
+{
+	position:fixed;
+}
+
+.col-1{width:80px; height:auto; float:left;}
+.col-2{width:160px; height:auto; float:left;}
+.col-3{width:240px; height:auto; float:left;}
+.col-4{width:320px; height:auto; float:left;}
+.col-5{width:400px; height:auto; float:left;}
+.col-6{width:480px; height:auto; float:left;}
+.col-7{width:560px; height:auto; float:left;}
+.col-8{width:640px; height:auto; float:left;}
+.col-9{width:720px; height:auto; float:left;}
+.col-10{width:800px; height:auto; float:left;}
+.col-11{width:880px; height:auto; float:left;}
+.col-12{width:960px; height:auto; float:left;}
+
+.subzi td
+{
+	font-size:20px;
+}
+
+.subzi th
+{
+	font-size:30px;
+}
+
+.bor
+{
+	border-bottom-style:solid;
+	border-right-style:solid;
+	border-left-style:solid;
+	border-top-style:solid;
+	border-bottom-color:purple;
+	border-right-color:purple;
+	border-left-color:purple;
+	border-top-color:purple;
+	border-bottom-width:5px;
+	border-right-width:5px;
+	border-left-width:5px;
+	border-top-width:5px;
+	margin-top:20px;
+}
+
+.back
+{
+	background-image:url("D:\Projects\IP Project\background.jpg");
+	background-position:100% 100%;
+}
+.blink
+{
+	text-decoration:blink;
+}
+
+.color
+{
+	color:#cb202d;
+}
+
+.color1
+{
+	color:#3b5998;
+}
+
+.Img 
+{ 
+	opacity:0.4;
+	background-attachment:fixed; 
+}
+
+.dropShadow 
+{
+	text-shadow: #bc212d 10px 10px 9px;
+}
+
+.text
+{
+	position: relative;
+	width: 100%;
+}
+
+h2
+{
+	position: absolute; 
+	top: 200px; 
+	left: 0; 
+	width: 100%;
+}
